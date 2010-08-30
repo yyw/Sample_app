@@ -1,0 +1,16 @@
+Script started on Sun Aug 29 18:46:46 2010
+bash-3.2$ cd script/
+bash-3.2$ ls
+rails
+bash-3.2$ cd rails 
+bash: cd: rails: Not a directory
+bash-3.2$ ls
+rails
+bash-3.2$ scrip[K[K[K[K[Kscr[K[K[Kqyut
+bash: qyut: command not found
+bash-3.2$ quit
+bash: quit: command not found
+bash-3.2$ exit
+exit
+
+Script done on Sun Aug 29 18:47:02 2010
